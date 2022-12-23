@@ -1,0 +1,63 @@
+.wrap {
+    width: 100%;
+}
+.display {
+    display: flex;
+}
+.justify {
+    justify-content: center;
+}
+.w80 {
+    width: 80%;
+}
+.w50 {
+    width: 23%;
+}
+.backgroundPlum {
+    background: #c6ee58;
+}
+.backgroundSilver {
+    background: silver;
+}
+.border {
+    border: 1px solid black;
+}
+.margin2 {
+    margin: 2px;
+}
+.marginY5 {
+    margin: 5px 0;
+}
+.text {
+    text-align: center;
+}
+.divPost {
+    width: 90%;
+    flex-direction: column;
+    align-items: center;
+    border: 10px solid silver;
+    padding: 10px;
+}
+.postTitle {
+    font-size: 20px;
+}
+.commentsWrap {
+    height: auto;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.divComment {
+    height: 500px;
+    margin: 10px 0;
+    background: whitesmoke;
+}
+.commentName {
+    height: 20%;
+}
+.commentEmail {
+    height: 5%;
+    font-size: 10px;
+}
+.commentBody {
+    height: 60%;
+}

@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="188482d5-a726-4b47-84ae-d40dce17a8e0" name="Changes" comment="JS lesson1. HW1" />
+    <list default="true" id="188482d5-a726-4b47-84ae-d40dce17a8e0" name="Changes" comment="mini project">
+      <change afterPath="$PROJECT_DIR$/lesson_5_JS/index_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_5_JS/main_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_6_JS/index_6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_6_JS/main_6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_7_JS/index_7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_project/main-post-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_project/main-user-detalis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_project/media-post.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_project/media-user.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_project/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_project/post-detalias.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_project/style-post.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_project/style-user.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_project/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/index_lesson1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1_JS/index_lesson1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1_JS/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project/main2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini_project/user-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/mini_project/user-details.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +33,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -21,6 +43,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2GuXLlXdU9ZDVd9okS1BPyvdQ6D" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -34,7 +59,13 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JavaScript&quot;
+    ]
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -46,7 +77,22 @@
       <option name="presentableId" value="Default" />
       <updated>1667239389109</updated>
       <workItem from="1667239391135" duration="3490000" />
-      <workItem from="1667297683659" duration="6582000" />
+      <workItem from="1667297683659" duration="7266000" />
+      <workItem from="1667320502083" duration="345000" />
+      <workItem from="1667326471768" duration="585000" />
+      <workItem from="1667907008495" duration="1347000" />
+      <workItem from="1667999967672" duration="1948000" />
+      <workItem from="1668004233978" duration="1462000" />
+      <workItem from="1668006725460" duration="4743000" />
+      <workItem from="1668090445304" duration="9645000" />
+      <workItem from="1668423953380" duration="19386000" />
+      <workItem from="1669108676863" duration="12871000" />
+      <workItem from="1669193070480" duration="5371000" />
+      <workItem from="1669214516064" duration="4000" />
+      <workItem from="1669226681106" duration="165000" />
+      <workItem from="1670415201048" duration="1795000" />
+      <workItem from="1670859151576" duration="4071000" />
+      <workItem from="1671793336916" duration="5636000" />
     </task>
     <task id="LOCAL-00001" summary="JS lesson1. HW1">
       <created>1667305176628</created>
@@ -55,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667305176628</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="JS lesson1. HW1">
+      <created>1667305332099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667305332099</updated>
+    </task>
+    <task id="LOCAL-00003" summary="mini project">
+      <created>1671793320585</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671793320585</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,6 +134,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JS lesson1. HW1" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS lesson1. HW1" />
+    <MESSAGE value="mini project" />
+    <option name="LAST_COMMIT_MESSAGE" value="mini project" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

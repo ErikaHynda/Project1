@@ -1,0 +1,14 @@
+@media screen and (min-width: 400px) and (max-width: 767px){
+    .divUserName {
+        font-size: small;
+    }
+    .divUserId {
+        width: 100%;
+    }
+    .divUserName {
+        width: 100%;
+    }
+    .divUserName {
+        padding: 5px;
+    }
+}

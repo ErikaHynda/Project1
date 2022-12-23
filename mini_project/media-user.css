@@ -1,0 +1,17 @@
+@media screen and (min-width: 400px) and (max-width: 767px){
+    .address {
+        width: 90%;
+    }
+    .backgroundBlue {
+        width: 90%;
+    }
+    .postTitle {
+        font-size: 10px;
+    }
+    .buttonPostInfo {
+        height: 35px;
+    }
+    .divPosts {
+        width: 84%;
+    }
+}

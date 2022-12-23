@@ -1,0 +1,59 @@
+#wrap {
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.hAuto {
+    height: auto;
+}
+.w40 {
+    width: 40%;
+}
+.w90 {
+    width: 90%;
+}
+.w70 {
+    width: 70%;
+}
+.display {
+    display: flex;
+}
+.justify {
+    justify-content: center;
+}
+.align {
+    align-items: center;
+}
+.marginY5 {
+    margin: 5px 0;
+}
+.border1 {
+    border: 1px solid black;
+}
+.backgroundWhite {
+    background: white;
+}
+.backgroundPlum {
+    background: #d07b1e;
+}
+.text {
+    text-align: center;
+}
+.divUserWrap{
+    width: 30%;
+    margin-bottom: 40px;
+    padding: 50px 30px;
+    border: 5px solid black;
+}
+.divUser {
+    flex-direction: column;
+    justify-content: space-around;
+    background: silver;
+    width: 60%;
+    height: 60%;
+    border: 2px solid black;
+    padding: 20px;
+}
+.divUserName {
+    font-size: 20px;
+}

@@ -1,0 +1,11 @@
+@media screen and (min-width: 400px) and (max-width: 767px){
+    .divComment {
+        width: 30%;
+    }
+    .postId,.commentId,.commentName,.commentBody {
+        font-size: 10px;
+    }
+    .commentEmail {
+        font-size: 7px;
+    }
+}

@@ -1,0 +1,84 @@
+.display {
+    display: flex;
+}
+.justify {
+    justify-content: center;
+}
+.ai {
+    align-items: center;
+}
+.marginBottom10 {
+    margin-bottom: 10px;
+}
+.marginBottom5 {
+    margin-bottom: 5px;
+}
+.border {
+    border: 1px solid black;
+}
+.column {
+    flex-direction: column;
+}
+.backgroundWhite {
+    background: whitesmoke;
+}
+.backgroundSilver {
+    background: silver;
+}
+.text20 {
+    font-size: 20px;
+}
+.w90 {
+    width: 90%;
+}
+.w60 {
+    width: 40%;
+}
+.w50 {
+    width: 50%;
+}
+.backgroundPlum {
+    background: #c6ee58;
+}
+.divUser {
+    flex-direction: column;
+    align-items: center;
+    border: 10px solid #c6ee58;
+    width: 95%;
+    padding: 10px;
+}
+.address {
+    background: #c6ee58;
+    padding: 30px 0;
+    margin-bottom: 10px;
+
+}
+.geo {
+    padding: 5px 0;
+}
+.buttonPost {
+    border: 5px solid #c6ee58;
+    font-size: 15px;
+}
+.divPosts {
+    width: 88%;
+    height: auto;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 10px solid whitesmoke;
+}
+.divPost {
+    width: 18%;
+    height: auto;
+    text-align: center;
+    margin: 10px 0;
+    padding-bottom: 2px;
+}
+.postTitle {
+    height: 120px;
+    margin: 2px;
+}
+.buttonPostInfo {
+    width: 100%;
+    height: 20px;
+}
